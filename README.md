@@ -9,12 +9,19 @@
 </div>
 
 ```c
+// author: sysevil
+
 typedef struct {
-  const char __user *github;
+  char *discord;
+  const char __user *twitter;
+  const char *blog;
 } contact;
 
+
 contact my = {
-  .sysevil = "sysevil",
+  .discord = "sysevil",
+  .twitter = "@sys3vil",
+  .blog = "sysevil.github.io"
 };
 ```
 
