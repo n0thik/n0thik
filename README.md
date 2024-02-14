@@ -14,7 +14,7 @@ typedef struct {
 } contact;
 
 contact my = {
-  .twitter = "sysevil",
+  .sysevil = "sysevil",
 };
 ```
 
