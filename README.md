@@ -1,24 +1,24 @@
-## 👋 Hi, I'm n0thik
+## 👋 Hi, I'm sysevil
 
 ------------
 
 <img align='right' src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXNkYnZ6YnAzbHltcHRpejZmZzhvcHVhZjJrYWYzNDBsMmxuM3ZrbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3xs6K4mZi1n0YrBUdd/giphy.gif' width='200"'>
 
-#### I am a security researcher focus on .. ~~insane fun~~
+#### I am a (security|dev) researche focus on .. 👁️🪲
 
 </div>
 
 ```c
 typedef struct {
-  const char __user *twitter;
+  const char __user *github;
 } contact;
 
 contact my = {
-  .twitter = "@n0thik",
+  .twitter = "sysevil",
 };
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n0thik&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="n0thik" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0thik&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&hide=elixir" alt="Top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sysevil&show_icons=true&title_color=fff&icon_color=00d9ff&text_color=c9d1d9&bg_color=161b22" alt="sysevil" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sysevil&layout=compact&show_icons=true&title_color=fff&icon_color=fff&text_color=c9d1d9&bg_color=161b22&hide=elixir" alt="Top langs" />
 </p>
