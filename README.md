@@ -12,8 +12,8 @@
 // author: sysevil
 
 typedef struct {
-  char *discord;
-  const char __user *twitter;
+  const char *discord;
+  const char *twitter;
   const char *blog;
 } contact;
 
