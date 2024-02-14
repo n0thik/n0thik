@@ -18,7 +18,7 @@ typedef struct {
 } contact;
 
 
-contact my = {
+contact = {
   .discord = "sysevil",
   .twitter = "@sys3vil",
   .blog = "sysevil.github.io"
