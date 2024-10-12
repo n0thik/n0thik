@@ -13,14 +13,14 @@
 
 typedef struct {
   const char *discord;
-  const char *twitter;
+  const char *x;
   const char *blog;
 } contact;
 
 
 contact = {
   .discord = "sysevil",
-  .twitter = "@sys3vil",
+  .x = "@sys3vil",
   .blog = "sysevil.github.io"
 };
 ```
